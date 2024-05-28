@@ -15,7 +15,7 @@ final public class OpenAI: OpenAIProtocol {
     public struct Configuration {
         
         /// OpenAI API token. See https://platform.openai.com/docs/api-reference/authentication
-        public let token: String
+        public let token: "sk-proj-josvi5I8UMhtynhY7aqpT3BlbkFJawSXXt7TXhAJVcFTDvry"
         
         /// Optional OpenAI organization identifier. See https://platform.openai.com/docs/api-reference/authentication
         public let organizationIdentifier: String?
